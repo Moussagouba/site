@@ -1,0 +1,155 @@
+.boxo {
+  color: white;
+  position: relative;
+  z-index: 2;
+  flex-direction: column;
+  left: 412px;
+  top: 730px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 16.08px;
+  text-decoration: none solid rgb(28, 30, 33);
+  text-align: left;
+  text-indent: 0px;
+  text-transform: none;
+  vertical-align: baseline;
+  white-space: normal;
+  word-spacing: 0px;
+}
+.boxo1 {
+  color: white;
+  position: relative;
+  z-index: 2;
+  flex-direction: column;
+  left: 609px;
+  top: 520px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 16.08px;
+}
+.boxo2 {
+  color: white;
+  position: relative;
+  z-index: 2;
+  flex-direction: column;
+  left: 806px;
+  top: 310px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 16.08px;
+}
+.boxo3 {
+  color: white;
+  position: relative;
+  z-index: 2;
+  flex-direction: column;
+  left: 1003px;
+  top: 100px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 16.08px;
+}
+.log4 {
+  position: relative;
+  z-index: 2;
+  top: 750px;
+  width: 160px;
+  height: 38px;
+  left: 150px;
+  /* color: white; */
+}
+.ger {
+  position: relative;
+  z-index: 2;
+  border: solid black 1px;
+  background-color: #25d366;
+  left: 150px;
+  top: 900px;
+  border-radius: 800px;
+  border: 200px;
+  padding: 16px;
+  padding-right: 20px;
+  padding-left: 20px;
+  text-align: center;
+}
+.but {
+  flex-direction: row;
+}
+.terminus {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  position: relative;
+  gap: 30px;
+  top: 180px;
+  left: 200px;
+}
+.ttc {
+  font-size: 12px;
+}
+.twitter {
+  position: relative;
+  left: 35px;
+  color: white;
+  border-top: 10px;
+  border-radius: 100%;
+  border: solid rgb(255, 255, 255) 2px;
+  padding: 10px;
+}
+.fblite {
+  position: relative;
+  left: 55px;
+  color: white;
+  border-top: 10px;
+  border-radius: 100%;
+  border: solid rgb(255, 255, 255) 2px;
+  padding: 10px;
+}
+.instagram {
+  position: relative;
+  left: 45px;
+  color: white;
+  border-top: 10px;
+  border-radius: 100%;
+  border: solid rgb(255, 255, 255) 2px;
+  padding: 10px;
+}
+.youtube {
+  position: relative;
+  left: 40px;
+  color: white;
+  padding: 10px;
+  border: solid rgb(255, 255, 255) 2px;
+  border-radius: 100%;
+}
+.francais {
+  position: relative;
+  left: 200px;
+  border-radius: 5px;
+  border: solid rgb(255, 255, 255) 2px;
+  padding: 5px;
+  background-color: black;
+  top: -20px;
+}
+hr {
+  position: relative;
+  top: 150px;
+  background: #25d366;
+  width: 1000px;
+}
